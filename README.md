@@ -1,4 +1,4 @@
-# Task_Manager_Django
+# Task Manager
 Welcome to our efficient and user-friendly Task Management website, meticulously crafted using a powerful tech stack including Django, HTML, CSS, Bootstrap, SQL, and Python. Seamlessly blending form and function, our platform offers a streamlined way to organize and manage your tasks with ease.
 
 ### Key Features:
@@ -30,7 +30,7 @@ Our platform is designed with users in mind. We understand the importance of a c
 Whether you're a student juggling assignments, a professional managing projects, or simply someone looking to stay organized, our Task Management website built on Django, HTML, CSS, Bootstrap, SQL, and Python is your ultimate solution. Simplify your life and boost your productivity by effectively managing your tasks in a user-friendly digital environment. Try it today and experience the difference.
 
 
-![Screenshot1](mllive/screenshot1.png)
-![Screenshot](mllive/screenshot2.png)
+![Screenshot1](mllive/screenshot1.png) ![Screenshot](mllive/screenshot2.png)
+
 
 
