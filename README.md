@@ -30,7 +30,7 @@ Our platform is designed with users in mind. We understand the importance of a c
 Whether you're a student juggling assignments, a professional managing projects, or simply someone looking to stay organized, our Task Management website built on Django, HTML, CSS, Bootstrap, SQL, and Python is your ultimate solution. Simplify your life and boost your productivity by effectively managing your tasks in a user-friendly digital environment. Try it today and experience the difference.
 
 
-![mllive/Screenshot 2023-08-16 235906.png](mllive/Screenshot 2023-08-16 235906.png)
-![Screenshot](mllive/Screenshot 2023-08-16 235934.png)
+![Screenshot1](mllive/screenshot1.png)
+![Screenshot](mllive/screenshot2.png)
 
 
